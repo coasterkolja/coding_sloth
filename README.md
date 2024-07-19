@@ -3,3 +3,8 @@ This repo is a collection of my solutions for the Weekly Coding Challenge in the
 
 - How Many Vowels
 - Stack By Queue
+- Advanced Sort
+- Create Box
+- Find First Occurence
+- FizzBuzz
+- Shift Chars
