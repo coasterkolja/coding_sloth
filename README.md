@@ -9,3 +9,4 @@ This repo is a collection of my solutions for the Weekly Coding Challenge in the
 - FizzBuzz
 - Shift Chars
 - Title String
+- Where is Waldo
